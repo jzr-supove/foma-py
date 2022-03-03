@@ -1,4 +1,13 @@
-# foma-py
+# Foma PY
+
+[![Downloads total](https://pepy.tech/badge/foma)](https://pepy.tech/project/foma)
+[![Downloads monthly](https://img.shields.io/pypi/dm/foma.svg)](https://pypi.python.org/pypi/foma)
+[![PyPi Package Version](https://img.shields.io/pypi/v/foma.svg)](https://pypi.python.org/pypi/foma)
+[![PyPi status](https://img.shields.io/pypi/status/foma.svg)](https://pypi.python.org/pypi/foma)
+[![Supported python versions](https://img.shields.io/pypi/pyversions/foma.svg)](https://pypi.python.org/pypi/foma)
+[![Github issues](https://img.shields.io/github/issues/goodeejay/foma-py.svg)](https://github.com/goodeejay/foma-py/issues)
+[![MIT License](https://img.shields.io/pypi/l/foma.svg)](https://opensource.org/licenses/MIT)
+
 Python bindings for Foma
 
 This is a foma interface implemented in Python. Requires libfoma installed.
